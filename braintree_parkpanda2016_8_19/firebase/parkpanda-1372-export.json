@@ -1,0 +1,276 @@
+{
+  "cityinfos" : {
+    "parkpanda_city_00001" : {
+      "lat" : 52.3833666666666,
+      "lon" : -1.56300833333333,
+      "name" : "University of Warwick, Coventry, CV4 7AL"
+    }
+  },
+  "parkinginfos" : {
+    "parkpanda_city_00001" : {
+      "cityname" : "University of Warwick, Coventry, CV4 7AL",
+      "parkinginfos" : {
+        "pid_1234567890" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 1,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3746861111111,
+          "lon" : -1.55303611111111,
+          "name" : "parking1",
+          "price" : 3,
+          "time" : "6:00-22:30",
+          "totalSpace" : 70
+        },
+        "pid_12345678901" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 14,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3826111111111,
+          "lon" : -1.56428055555555,
+          "name" : "1A",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 400
+        },
+        "pid_12345678902" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 33,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.38665,
+          "lon" : -1.56473611111111,
+          "name" : "2",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 400
+        },
+        "pid_12345678903" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes : £0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 38,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3886083333333,
+          "lon" : -1.56426388888888,
+          "name" : "3",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 300
+        },
+        "pid_12345678904" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 70,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3888611111111,
+          "lon" : -1.55955,
+          "name" : "parking14",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 400
+        },
+        "pid_12345678905" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 17,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3844416666666,
+          "lon" : -1.561475,
+          "name" : "6",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 400
+        },
+        "pid_12345678906" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 67,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3838305555555,
+          "lon" : -1.56595,
+          "name" : "7",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 400
+        },
+        "pid_12345678907" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 22,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3861083333333,
+          "lon" : -1.56497777777777,
+          "name" : "8",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 400
+        },
+        "pid_12345678908" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 22,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 3.085343,
+          "lon" : 101.691107,
+          "name" : "NSK Trade City",
+          "price" : 3,
+          "time" : "No limited",
+          "totalSpace" : 400
+        },
+        "pid_1234567891" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 10,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3747472222222,
+          "lon" : -1.55351944444444,
+          "name" : "9",
+          "price" : 3,
+          "time" : "7:00-22:00",
+          "totalSpace" : 44
+        },
+        "pid_1234567892" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 20,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3768194444444,
+          "lon" : -1.56130277777777,
+          "name" : "10A",
+          "price" : 3,
+          "time" : "8:30-21:30",
+          "totalSpace" : 50
+        },
+        "pid_1234567893" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 122,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3763611111111,
+          "lon" : -1.563475,
+          "name" : "10B",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 400
+        },
+        "pid_1234567894" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 12,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3788305555555,
+          "lon" : -1.55774166666666,
+          "name" : "12",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 122
+        },
+        "pid_1234567895" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 24,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3806222222222,
+          "lon" : -1.55981111111111,
+          "name" : "13",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 400
+        },
+        "pid_1234567896" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 55,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3821694444444,
+          "lon" : -1.55917222222222,
+          "name" : "14",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 400
+        },
+        "pid_1234567897" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 88,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3833666666666,
+          "lon" : -1.56300833333333,
+          "name" : "15",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 400
+        },
+        "pid_1234567898" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 17,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3833166666666,
+          "lon" : -1.56414722222222,
+          "name" : "16",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 400
+        },
+        "pid_1234567899" : {
+          "address" : "University of Warwick, Coventry, CV4 7AL",
+          "desc" : "Parking is no free during Monday to Friday 06:00 to 18:00\nParking is free during weekends, evenings (up to midnight) and Bank Holidays.\n30 minutes :£0.50, Up-to 4 hours : £1.50, Full Day : £3.00, Overstay : £20",
+          "freeSpace" : 2,
+          "image" : "parkingimage/Warwick.png",
+          "lat" : 52.3828027777777,
+          "lon" : -1.56426944444444,
+          "name" : "17",
+          "price" : 3,
+          "time" : "10:00-22:30",
+          "totalSpace" : 300
+        }
+      }
+    }
+  },
+  "profiles" : {
+    "2XsiA2sX6hT6VGzMx2QiJAq5sNP2" : {
+      "carlicensenumber" : "",
+      "firstname" : "Tan",
+      "lastname" : "WernLing",
+      "uid" : "2XsiA2sX6hT6VGzMx2QiJAq5sNP2"
+    },
+    "93PxHISrKCMTzmcjKTt3xHKiYAa2" : {
+      "carlicensenumber" : "SS34S",
+      "firstname" : "ttt",
+      "lastname" : "yyy",
+      "uid" : "93PxHISrKCMTzmcjKTt3xHKiYAa2"
+    },
+    "JQdUmVRcUSXTqqb3Ivy8zym1z8V2" : {
+      "carlicensenumber" : "SSZXD",
+      "firstname" : "eee",
+      "lastname" : "rr",
+      "uid" : "JQdUmVRcUSXTqqb3Ivy8zym1z8V2"
+    },
+    "WPntHlyA5PQ2XsUQe0SnhNjYqds1" : {
+      "carlicensenumber" : "123",
+      "firstname" : "tan",
+      "lastname" : "wernling",
+      "uid" : "WPntHlyA5PQ2XsUQe0SnhNjYqds1"
+    },
+    "YNqu1v450YYIBfknax5ktFS4WIQ2" : {
+      "carlicensenumber" : " ",
+      "firstname" : "Tan",
+      "lastname" : "WernLing",
+      "uid" : "YNqu1v450YYIBfknax5ktFS4WIQ2"
+    },
+    "npyXBQ4RHwfrJqSEJfoR2ATO3xx2" : {
+      "carlicensenumber" : "Fukui",
+      "firstname" : "try",
+      "lastname" : "hhhhh",
+      "uid" : "npyXBQ4RHwfrJqSEJfoR2ATO3xx2"
+    },
+    "wRV2I3mgpue2n12h3tb0s1On1kW2" : {
+      "carlicensenumber" : "CC65IP8T",
+      "firstname" : "Abylay",
+      "lastname" : "Kudaybergenov",
+      "uid" : "wRV2I3mgpue2n12h3tb0s1On1kW2"
+    }
+  }
+}
